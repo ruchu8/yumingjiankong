@@ -22,6 +22,15 @@ window.Config = {
   color: '#555555',
    
 
+  Navi: [
+    {
+      text: '主页',
+      url: 'https://www.xh.sd'
+    },
+    {
+      text: 'Github',
+      url: 'https://github.com/caogens/uptime-status-pro'
+    },
+  ],
 };
-
   
