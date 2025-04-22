@@ -16,7 +16,7 @@ window.Config = {
   ShowLink: true,
 
   // 背景图片
-  Image: 'https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/0072Vf1pgy1foxlnm282ij31kw0w0nld.jpg',
+  Image: 'https://img.moehu.org/p.php',
 
   // 背景颜色
   color: '#555555',
